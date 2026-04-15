@@ -1,1 +1,25 @@
 # Monitoreo-de-Gallinas-Ponedoras
+
+Descripción del Proyecto
+Este repositorio contiene el desarrollo de un modelo basado en Deep Learning para la detección automatizada de gallinas en entornos de pastoreo mediante imágenes aéreas. El objetivo principal es proporcionar una herramienta tecnológica que facilite el monitoreo no invasivo en granjas inteligentes, utilizando drones para la captura de datos.
+
+El sistema integra técnicas de preprocesamiento de imágenes para la mitigación de sombras y el entrenamiento de la arquitectura YOLOv8 para la identificación precisa de ejemplares en terrenos complejos.
+
+Características Técnicas
+Modelo: YOLOv8 (You Only Look Once) para detección de objetos.
+
+Procesamiento de Imagen: OpenCV y Python (filtros de umbralización y limpieza de ruido).
+
+Dataset: Imágenes aéreas personalizadas con etiquetado manual.
+
+Alcance Actual: Detección en imágenes estáticas (base para futura implementación de tracking en video).
+
+
+Información Académica
+Institución: Instituto Superior Politécnico de Córdoba (ISPC).
+
+Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+
+Espacio Curricular: Procesamiento de Imágenes.
+
+Cohorte: 2024.
