@@ -15,13 +15,13 @@ Dataset: Imágenes aéreas personalizadas con etiquetado manual.
 Alcance Actual: Detección en imágenes estáticas (base para futura implementación de tracking en video).
 
 Equipo: 
-Andrada, Florencia - GitHub: Flor3ncia-Andr4d4
-Córdoba, Federico - GitHub: Fede-cordoba-ispc
-Juncos, David - GitHub:  David Juncos
-Mendoza Despontin, Guadalupe - GitHub: Guadamendoza 
-Pereyra, Hebe - GitHub: PereyraHebe
-Soto, Noelia - GitHub: NoeliaSoto
-Suarez, Mariela - GitHub: MarielarosaSZ
+ - Andrada, Florencia - GitHub: Flor3ncia-Andr4d4
+ - Córdoba, Federico - GitHub: Fede-cordoba-ispc
+ - Juncos, David - GitHub:  David Juncos
+ - Mendoza Despontin, Guadalupe - GitHub: Guadamendoza 
+ - Pereyra, Hebe - GitHub: PereyraHebe
+ - Soto, Noelia - GitHub: NoeliaSoto
+ - Suarez, Mariela - GitHub: MarielarosaSZ
 
 
 
