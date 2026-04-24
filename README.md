@@ -45,4 +45,4 @@ Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
 Espacio Curricular: Procesamiento de Imágenes.
 
-Cohorte: 2024.
+Cohorte: 2024. 
