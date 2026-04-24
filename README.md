@@ -28,7 +28,7 @@ Alcance Actual: Detección en imágenes estáticas (base para futura implementac
 Equipo: 
  - Andrada, Florencia - GitHub: Flor3ncia-Andr4d4
  - Córdoba, Federico - GitHub: Fede-cordoba-ispc
- - Juncos, David - GitHub:  David Juncos
+ - Juncos, David - GitHub:  davidJuncos
  - Mendoza Despontin, Guadalupe - GitHub: Guadamendoza 
  - Pereyra, Hebe - GitHub: PereyraHebe
  - Soto, Noelia - GitHub: NoeliaSoto.
