@@ -12,6 +12,17 @@ Procesamiento de Imagen: OpenCV y Python (filtros de umbralización y limpieza d
 
 Dataset: Imágenes aéreas personalizadas con etiquetado manual.
 
+Primeras opciones a evaluar por el docente: 
+
+Fuente: 
+https://universe.roboflow.com/search?q=gallinas
+
+https://drive.google.com/file/d/1pyQERTpJGcQwFTh7apRXLVHZxC5-ghVZ/view?usp=sharing
+
+https://drive.google.com/drive/folders/1uBzuHNeEIKOffCLBC8oSBlGBUONdLPFM?usp=sharing 
+
+
+
 Alcance Actual: Detección en imágenes estáticas (base para futura implementación de tracking en video).
 
 Equipo: 
