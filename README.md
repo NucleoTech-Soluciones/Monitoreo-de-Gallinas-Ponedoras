@@ -31,7 +31,7 @@ Equipo:
  - Juncos, David - GitHub:  David Juncos
  - Mendoza Despontin, Guadalupe - GitHub: Guadamendoza 
  - Pereyra, Hebe - GitHub: PereyraHebe
- - Soto, Noelia - GitHub: NoeliaSoto
+ - Soto, Noelia - GitHub: NoeliaSoto.
  - Suarez, Mariela - GitHub: MarielarosaSZ
 
 
