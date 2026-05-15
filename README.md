@@ -21,6 +21,16 @@ https://drive.google.com/file/d/1pyQERTpJGcQwFTh7apRXLVHZxC5-ghVZ/view?usp=shari
 
 https://drive.google.com/drive/folders/1uBzuHNeEIKOffCLBC8oSBlGBUONdLPFM?usp=sharing 
 
+Segunda entrega: 
+
+Se trabaja con un modelo de clasificación: 
+
+Data set: https://drive.google.com/drive/folders/1sD5Gk_MhBiAIkxrCRFARxs4oN1y0iAbf?usp=sharing
+
+Colab: https://colab.research.google.com/drive/1YtWlBqEHsGMT7sFGUf0bAnQw8l5LKYDV?usp=drive_link
+
+Documento ABP actualizado: https://docs.google.com/document/d/1OUWWWkGuIcyYK1PjjSKJcnr485lba9kna6MqgaxwyMk/edit?usp=sharing
+
 
 
 Alcance Actual: Detección en imágenes estáticas (base para futura implementación de tracking en video).
